@@ -1,0 +1,55 @@
+#MenuPanel{
+    -fx-padding: 5px;
+
+    -fx-border-color: black;
+    -fx-border-style: solid;
+    -fx-border-width: 1px;
+    -fx-background-color: #fff4d8;
+}
+#MenuPanel > VBox{
+    -fx-padding: 5px;
+
+    -fx-background-color: #dfe6e9;
+    -fx-background-radius: 5px;
+    -fx-border-color: black;
+    -fx-border-style: solid;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+}
+#MenuPanel > VBox > Text{
+    -fx-font-size: 14px;
+}
+#MenuPanel Button{
+    -fx-min-width: 30px;
+
+    -fx-background-radius: 5px;
+    -fx-background-color: #efdb9d;
+    -fx-border-color: rgba(87, 87, 87, 0.6);
+    -fx-border-radius: 5px;
+}
+#MenuPanel Button:pressed{
+    -fx-background-color: #ffeaa7;
+    -fx-border-color: rgba(87, 87, 87, 0.3);
+}
+
+#MenuPanel Button:hover{
+    -fx-border-color: rgba(87, 87, 87, 0.4);
+}
+
+#MenuPanel StackPane{
+    -fx-pref-width: 75px;
+
+    -fx-background-color: #bead74;
+    -fx-background-radius: 5px;
+    -fx-border-color: #868686;
+    -fx-border-radius: 5px;
+}
+
+#MenuPanel > VBox > HBox > TextField{
+    -fx-pref-width: 25px;
+    -fx-min-width: 15px;
+    -fx-font-size: 10;
+}
+#MenuPanel > Button:pressed{
+    -fx-background-color: #dadada;
+}
