@@ -1,0 +1,47 @@
+.block-module{
+    -fx-max-width: 200px;
+    -fx-max-height: 100px;
+    -fx-border-width: 3px;
+    -fx-border-style: solid;
+    -fx-border-radius: 10;
+    -fx-border-color: black;
+    -fx-padding: 10px;
+    -fx-background-radius: 10px;
+}
+.block-inside{
+    -fx-padding: 10px;
+    -fx-pref-height: 100px;
+    -fx-pref-width: 200px;
+    -fx-border-width: 3px;
+    -fx-border-style: solid;
+    -fx-border-radius: 10;
+    -fx-border-color: black;
+}
+
+.INPUT-socket{
+    -fx-fill: #00ff00;
+}
+.INPUT-socket-clicked{
+    -fx-fill: #008700;
+}
+.OUTPUT-socket{
+    -fx-fill: #ff0000;
+}
+.OUTPUT-socket-clicked{
+    -fx-fill: #870000;
+}
+.CONTROL-socket{
+    -fx-fill: #0000ff;
+}
+.CONTROL-socket-clicked{
+    -fx-fill: #000087;
+}
+#update-button{
+    -fx-padding: 10px;
+    -fx-background-color: #212121;
+    -fx-text-fill: white;
+    -fx-background-radius: 10px;
+}
+#update-button:hover{
+    -fx-background-color: #424242;
+}

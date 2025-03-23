@@ -1,0 +1,52 @@
+#ButtonBox {
+    -fx-padding: 5px;
+    -fx-min-width: 115px;
+}
+#NameBox{
+    -fx-padding: 5px;
+    -fx-min-width: 50px;
+}
+#ListBox {
+    -fx-padding: 5px;
+    -fx-pref-width: 10000;
+}
+#LeftBox{
+    -fx-padding: 3px;
+
+    -fx-border-width: 1px;
+    -fx-border-color: #696969;
+    -fx-border-radius: 5;
+}
+#RightBox{
+    -fx-padding: 10px;
+    -fx-min-width: 100px;
+
+    -fx-border-width: 1px;
+    -fx-border-color: #696969;
+    -fx-border-radius: 5;
+}
+#RightBox>*{
+    -fx-min-width: 75px;
+    -fx-max-width: 75px;
+}
+.button{
+    -fx-min-width: 110px;
+    -fx-max-width: 110px;
+}
+#Table{
+    -fx-pref-height: 10000;
+}
+.combo-box {
+    -fx-pref-width: 10000;
+}
+#LangComboBox{
+    -fx-min-width: 75px;
+    -fx-max-width: 75px;
+}
+
+.combo-box.error {
+    -fx-background-color: rgb(255, 142, 142);
+}
+.text-field.error{
+    -fx-background-color: rgb(255, 142, 142);
+}

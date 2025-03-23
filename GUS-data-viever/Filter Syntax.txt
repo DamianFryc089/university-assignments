@@ -1,0 +1,37 @@
+EN
+List of available operators for filtering:
+    ==   Equals
+    !=   Not equal
+    >    Greater than
+    <    Less than
+    >=   Greater than or equal
+    <=   Less than or equal
+    @=   Contains
+    _=   Starts with
+    !@=  Does not contain
+    !_=  Does not start with
+    @=*  Contains (case insensitive, text fields)
+    _=*  Starts with (case-insensitive, text fields)
+    ==*  Equals (case insensitive, text fields)
+    !=*  Not equal (case insensitive, text fields)
+    !@=* Does not contain (case-insensitive, text fields)
+    !_=* Does not start with (case-insensitive, text fields)
+
+PL
+Lista dostępnych operatorów do filtrowania:
+    ==   Równa się
+    !=   Różny od
+    >    Większy niż
+    <    Mniejszy niż
+    >=   Większy lub równy
+    <=   Mniejszy lub równy
+    @=   Zawiera
+    _=   Zaczyna się od
+    !@=  Nie zawiera
+    !_=  Nie zaczyna się od
+    @=*  Zawiera bez rozróżniania wielkości znaków (pola tekstowe)
+    _=*  Zaczyna się od bez rozróżniania wielkości znaków (pola tekstowe)
+    ==*  Równa się bez rozróżniania wielkości znaków (pola tekstowe)
+    !=*  Różny od bez rozróżniania wielkości znaków (pola tekstowe)
+    !@=* Nie zawiera bez rozróżniania wielkości znaków (pola tekstowe)
+    !_=* Nie zaczyna się od bez rozróżniania wielkości znaków (pola tekstowe)
