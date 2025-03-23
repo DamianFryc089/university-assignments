@@ -6,10 +6,10 @@ This repository contains all of my academic coding projects completed during my 
 - SQL
 
 ## Projects:
-- [**square-encryption**](./square-encryption) (Java)
-- [**game-festival-optimization**](./game-festival-optimization) (Java)
-- [**event-voucher-system**](./event-voucher-system) (Java, SQL)
-- [**GUS-data-viewer**](./GUS-data-viewer) (Java)
-- [**car-wash-on-threads**](./car-wash-on-threads) (Java)
-- [**river-system-on-sockets**](./river-system-on-sockets) (Java)
-- [**river-system-on-rmi**](./river-system-on-rmi) (Java)
+- [**square-encryption**](https://github.com/DamianFryc089/university-assignments/tree/main/square-encription)
+- [**game-festival-optimization**](https://github.com/DamianFryc089/university-assignments/tree/main/game-festival-optimization)
+- [**event-voucher-system**](https://github.com/DamianFryc089/university-assignments/tree/main/event-voucher-system)
+- [**GUS-data-viewer**](https://github.com/DamianFryc089/university-assignments/tree/main/GUS-data-viever)
+- [**car-wash-on-threads**](https://github.com/DamianFryc089/university-assignments/tree/main/car-wash-on-threads)
+- [**river-system-on-sockets**](https://github.com/DamianFryc089/university-assignments/tree/main/river-system-on-sockets)
+- [**river-system-on-rmi**](https://github.com/DamianFryc089/university-assignments/tree/main/river-system-on-rmi)
